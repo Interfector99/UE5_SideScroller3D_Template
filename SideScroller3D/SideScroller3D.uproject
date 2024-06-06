@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B53FBFE7-4DBB-9A25-F385-A4B8693299D7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SideScroller3D",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
