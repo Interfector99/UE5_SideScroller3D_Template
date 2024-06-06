@@ -34,7 +34,8 @@ Derived from Unreal Engine's third person template. No changes were made except 
 ## How to Install
 1. Download the latest release
 2. Unpack the ZIP file
-3. Paste it into your UnrealEngineInstallation/Templates folder
+3. Paste it into your UnrealEngineInstallation/Templates folder 
+
 More information: [https://cobracode.notion.site/How-to-install-an-Unreal-Engine-Template-b7fe36e8f9d142b2b02a4fc88600b0f9](https://cobracode.notion.site/How-to-install-an-Unreal-Engine-Template-b7fe36e8f9d142b2b02a4fc88600b0f9)
 
 ## How to make templates yourself
