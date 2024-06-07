@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SideScroller3D", "SideScroller3D", "{5E71A792-F6B6-4433-8828-10F2AADE3032}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intermediate", "Intermediate", "{62BA073C-2306-4964-8D44-BE30506BF3A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{3E6B63B8-0C59-4DBF-AD47-0465FDE97248}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildRulesProjects", "BuildRulesProjects", "{36DBF0E0-99EA-4590-9506-3E22AEF3C028}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SideScroller3DModuleRules", "SideScroller3D\Intermediate\Build\BuildRulesProjects\SideScroller3DModuleRules\SideScroller3DModuleRules.csproj", "{78AE5CD2-535D-419E-BF32-386BE895EBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AE5CD2-535D-419E-BF32-386BE895EBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AE5CD2-535D-419E-BF32-386BE895EBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AE5CD2-535D-419E-BF32-386BE895EBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AE5CD2-535D-419E-BF32-386BE895EBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{62BA073C-2306-4964-8D44-BE30506BF3A1} = {5E71A792-F6B6-4433-8828-10F2AADE3032}
+		{3E6B63B8-0C59-4DBF-AD47-0465FDE97248} = {62BA073C-2306-4964-8D44-BE30506BF3A1}
+		{36DBF0E0-99EA-4590-9506-3E22AEF3C028} = {3E6B63B8-0C59-4DBF-AD47-0465FDE97248}
+		{78AE5CD2-535D-419E-BF32-386BE895EBFC} = {36DBF0E0-99EA-4590-9506-3E22AEF3C028}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0A2515-C3C2-4DD4-8B37-A95A2D9ABBF6}
+	EndGlobalSection
+EndGlobal
